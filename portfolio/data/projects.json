@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "title": "Jobs-Applied-Tracking-Google-Sheet-website",
+    "description": "Automated job application tracker using Google Sheets that auto-populates data from websites and updates the sheet dynamically.",
+    "techStack": ["JavaScript (ES6+)", "CSS3", "HTML5","Google Sheet"],
+    "githubUrl": "https://github.com/ritikesh11052000/Jobs-Applied-Tracking-Google-Sheet-website",
+    "demoUrl": "https://job-tracker-two-delta.vercel.app/"
+  },
+  {
+    "id": 2,
+    "title": "Portfolio Website",
+    "description": "A modern, responsive personal portfolio website showcasing projects, skills, and experience with smooth animations and dark/light theme toggle.",
+    "techStack": ["Next.js", "Tailwind CSS", "Framer Motion", "TypeScript"],
+    "githubUrl": "https://github.com/ritikesh11052000/portfolio",
+    "demoUrl": "https://portfolio-gamma-liart-xprbktwuts.vercel.app/"
+  },
+  {
+    "id": 3,
+    "title": "Online Resume Builder",
+    "description": "An interactive web application that helps users create professional resumes with customizable templates and export options.",
+    "techStack": ["Java", "Spring Boot", "React", "PostgreSQL"],
+    "githubUrl": "https://github.com/ritikesh11052000/online-resume-builder",
+    "demoUrl": ""
+  },
+  {
+    "id": 4,
+    "title": "Electricity Billing System",
+    "description": "A comprehensive billing management system for electricity providers with automated calculations, payment processing, and reporting features.",
+    "techStack": ["Java", "MySQL", "JSP", "Servlets"],
+    "githubUrl": "https://github.com/ritikesh11052000/electricity-billing-system",
+    "demoUrl": ""
+  },
+  {
+    "id": 5,
+    "title": "React Weather Application",
+    "description": "A responsive weather app that provides current weather conditions and forecasts using weather APIs with beautiful UI components.",
+    "techStack": ["React", "JavaScript", "CSS", "Weather API"],
+    "githubUrl": "https://github.com/ritikesh11052000/react-weather-app",
+    "demoUrl": ""
+  },
+  {
+    "id": 6,
+    "title": "React Chat Application",
+    "description": "A real-time chat application with features like user authentication, group chats, file sharing, and message encryption.",
+    "techStack": ["React", "Node.js", "Socket.io", "MongoDB"],
+    "githubUrl": "https://github.com/ritikesh11052000/react-chat-app",
+    "demoUrl": ""
+  },
+  {
+    "id": 7,
+    "title": "To-do List Project",
+    "description": "A full-stack task management application with user authentication, task categorization, due dates, and collaborative features.",
+    "techStack": ["React", "Node.js", "Express", "MongoDB"],
+    "githubUrl": "https://github.com/ritikesh11052000/todo-list-fullstack",
+    "demoUrl": ""
+  },
+  {
+    "id": 8,
+    "title": "Online Survey System",
+    "description": "A web-based survey platform allowing users to create, distribute, and analyze surveys with real-time results and data visualization.",
+    "techStack": ["Java", "Spring Boot", "MySQL", "Thymeleaf"],
+    "githubUrl": "https://github.com/ritikesh11052000/online-survey-system",
+    "demoUrl": ""
+  },
+  {
+    "id": 9,
+    "title": "E-commerce Website/App",
+    "description": "A complete e-commerce platform with product catalog, shopping cart, payment integration, order management, and admin dashboard.",
+    "techStack": ["React", "Node.js", "MongoDB", "Stripe API", "Express"],
+    "githubUrl": "https://github.com/ritikesh11052000/ecommerce-app",
+    "demoUrl": ""
+  },
+  {
+    "id": 10,
+    "title": "Fake News Detection Using Python",
+    "description": "A machine learning model that analyzes news articles and detects fake news using natural language processing and classification algorithms.",
+    "techStack": ["Python", "Scikit-learn", "NLTK", "Pandas", "Flask"],
+    "githubUrl": "https://github.com/ritikesh11052000/fake-news-detection",
+    "demoUrl": ""
+  },
+  {
+    "id": 11,
+    "title": "Detection of Road Lane Lines",
+    "description": "Computer vision project that detects and tracks road lane lines in real-time using OpenCV and image processing techniques.",
+    "techStack": ["Python", "OpenCV", "NumPy", "Matplotlib"],
+    "githubUrl": "https://github.com/ritikesh11052000/lane-detection",
+    "demoUrl": ""
+  },
+  {
+    "id": 12,
+    "title": "Web Scraper",
+    "description": "A versatile web scraping tool that extracts data from websites with customizable selectors, handles pagination, and exports data to various formats.",
+    "techStack": ["Python", "BeautifulSoup", "Requests", "Pandas"],
+    "githubUrl": "https://github.com/ritikesh11052000/web-scraper",
+    "demoUrl": ""
+  },
+  {
+    "id": 13,
+    "title": "Music Recommendation System",
+    "description": "A machine learning-based music recommendation system that suggests songs based on user preferences and listening history using collaborative filtering.",
+    "techStack": ["Python", "Scikit-learn", "Pandas", "Flask", "Spotify API"],
+    "githubUrl": "https://github.com/ritikesh11052000/music-recommendation",
+    "demoUrl": ""
+  },
+  {
+    "id": 14,
+    "title": "Text Summarisation",
+    "description": "An NLP project that automatically summarizes long text documents using extractive and abstractive summarization techniques.",
+    "techStack": ["Python", "NLTK", "Transformers", "Flask"],
+    "githubUrl": "https://github.com/ritikesh11052000/text-summarization",
+    "demoUrl": ""
+  },
+  {
+    "id": 15,
+    "title": "Password Generator using Java",
+    "description": "A secure password generator application built with Java that creates strong, customizable passwords with various complexity options.",
+    "techStack": ["Java", "Swing"],
+    "githubUrl": "https://github.com/ritikesh11052000/password-generator-java",
+    "demoUrl": ""
+  },
+  {
+    "id": 16,
+    "title": "DSA Programming Challenges",
+    "description": "A collection of Data Structures and Algorithms programming challenges solved in Python and Java, demonstrating problem-solving skills and coding proficiency.",
+    "techStack": ["Python", "Java"],
+    "githubUrl": "https://github.com/ritikesh11052000/DSA-Programming-Challenges-Python-Java",
+    "demoUrl": ""
+  }
+]

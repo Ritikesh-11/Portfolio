@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://portfolio-a8c7kwhvo-ritikeshsm-3090s-projects.vercel.app
+
+# Sitemaps
+Sitemap: https://portfolio-a8c7kwhvo-ritikeshsm-3090s-projects.vercel.app/sitemap.xml

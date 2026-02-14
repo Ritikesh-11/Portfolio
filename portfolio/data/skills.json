@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Programming Languages",
+    "skills": ["Python", "JavaScript", "TypeScript", "Java", "C++", "SQL"]
+  },
+  {
+    "category": "Machine Learning & AI",
+    "skills": ["TensorFlow", "PyTorch", "Scikit-learn", "Pandas", "NumPy", "OpenCV", "NLTK"]
+  },
+  {
+    "category": "Web Development",
+    "skills": ["React", "Next.js", "Node.js", "Express", "Flask", "FastAPI", "HTML", "CSS", "Tailwind CSS"]
+  },
+  {
+    "category": "Cloud & DevOps",
+    "skills": ["AWS", "Docker", "Kubernetes", "Git", "CI/CD", "Linux", "Apache Spark"]
+  },
+  {
+    "category": "Databases",
+    "skills": ["PostgreSQL", "MongoDB", "MySQL", "Redis", "Elasticsearch"]
+  },
+  {
+    "category": "Tools & Frameworks",
+    "skills": ["Git", "Docker", "Jenkins", "Jira", "Postman", "VS Code", "Jupyter"]
+  }
+]

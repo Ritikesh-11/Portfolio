@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "AI/ML Intern",
+    "company": "SparkLabIT Solutions",
+    "location": "Remote",
+    "duration": "Jun 2024 - Aug 2024",
+    "description": "Developed machine learning models for predictive analytics and automated data processing pipelines. Worked on computer vision projects using OpenCV and TensorFlow.",
+    "technologies": ["Python", "TensorFlow", "OpenCV", "Pandas", "Scikit-learn"],
+    "achievements": [
+      "Improved model accuracy by 25% through feature engineering",
+      "Automated data preprocessing pipeline reducing processing time by 40%",
+      "Collaborated on computer vision project for object detection"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "AWS Academy Graduate",
+    "company": "AWS Academy",
+    "location": "Online",
+    "duration": "Jan 2024 - May 2024",
+    "description": "Completed comprehensive AWS training program covering cloud architecture, serverless computing, and DevOps practices. Built scalable applications using AWS services.",
+    "technologies": ["AWS EC2", "AWS Lambda", "AWS S3", "AWS RDS", "CloudFormation"],
+    "achievements": [
+      "Earned AWS Certified Cloud Practitioner certification",
+      "Built serverless applications using Lambda and API Gateway",
+      "Implemented CI/CD pipelines using AWS CodePipeline"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Data Science Project Lead",
+    "company": "Personal Project",
+    "location": "Hyderabad, India",
+    "duration": "Sep 2023 - Dec 2023",
+    "description": "Led development of predictive analytics dashboard for retail sales forecasting. Integrated multiple data sources and created interactive visualizations.",
+    "technologies": ["Python", "React", "D3.js", "PostgreSQL", "Flask"],
+    "achievements": [
+      "Developed forecasting model with 85% accuracy",
+      "Created interactive dashboard with real-time data updates",
+      "Integrated multiple APIs for data collection"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Full Stack Developer",
+    "company": "Freelance",
+    "location": "Remote",
+    "duration": "Mar 2023 - Present",
+    "description": "Developed web applications for small businesses using modern web technologies. Focused on creating responsive, user-friendly interfaces and robust backend systems.",
+    "technologies": ["React", "Node.js", "Express", "MongoDB", "Tailwind CSS"],
+    "achievements": [
+      "Delivered 5+ projects with 100% client satisfaction",
+      "Implemented responsive designs for mobile and desktop",
+      "Optimized application performance resulting in 50% faster load times"
+    ]
+  }
+]

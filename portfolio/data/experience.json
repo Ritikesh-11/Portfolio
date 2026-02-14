@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Data Science Intern",
+    "company": "SparkLabIT Solutions",
+    "location": "Gadhinglaj, India",
+    "duration": "Jan 2024 – Jun 2024",
+    "description": "Designed and implemented scalable software solutions using Python and SQL. Collaborated with cross-functional teams to ensure project deliverables met quality standards. Conducted debugging and performance optimization to enhance overall application efficiency.",
+    "technologies": ["Python", "SQL", "Pandas", "NumPy", "Power BI"],
+    "achievements": [
+      "Developed data pipelines to process and analyze large datasets efficiently.",
+      "Optimized codebase, improving performance by 20%.",
+      "Contributed to data visualization reports supporting business insights and decisions."
+    ],
+    "certificateUrl": "https://drive.google.com/file/d/1tlAo-Yqga0FyEVbjwAbOWYlhXB3liQag/view?usp=sharing"
+  },
+  {
+    "id": 2,
+    "title": "Python-ML Intern",
+    "company": "QSective Solutions",
+    "location": "Ichalkaranji, India",
+    "duration": "Apr 2023 – Jun 2023",
+    "description": "Developed and deployed machine learning pipelines integrated into existing systems to improve automation and decision-making processes. Automated data preprocessing and transformation tasks using Python scripts to streamline workflows.",
+    "technologies": ["Python", "Scikit-learn", "Pandas", "NumPy", "Matplotlib"],
+    "achievements": [
+      "Built and optimized ML models for predictive analytics tasks.",
+      "Automated repetitive data processing workflows, reducing manual effort by 30%.",
+      "Collaborated with the team to integrate ML models into live applications."
+    ],
+    "certificateUrl": "https://drive.google.com/file/d/17-9sszYT5NRsORi6oHiUabD6D7tGX1bB/view?usp=sharing"
+  },
+  {
+    "id": 3,
+    "title": "AWS Academy AI-ML Virtual Intern",
+    "company": "Amazon Web Services (AWS)",
+    "location": "Virtual Internship",
+    "duration": "Dec 2022 – Feb 2023",
+    "description": "Gained hands-on experience in building, training, and deploying AI/ML models on AWS Cloud. Focused on enhancing application scalability and performance using cloud-native services and best practices in model deployment.",
+    "technologies": ["AWS SageMaker", "Python", "TensorFlow", "AWS Lambda", "Amazon S3"],
+    "achievements": [
+      "Deployed end-to-end ML models using AWS SageMaker.",
+      "Improved application scalability and reduced latency through cloud optimization.",
+      "Completed AWS Academy AI-ML certification demonstrating practical cloud expertise."
+    ],
+    "certificateUrl": "https://drive.google.com/file/d/1TzvvWNi2ZRkLta0mt2J8DQox7r6Kjhbc/view?usp=sharing"
+  }
+]
