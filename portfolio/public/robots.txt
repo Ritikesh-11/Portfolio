@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://portfolio-4xv7z9ss7-ritikesh11052000s-projects.vercel.app
+Host: https://portfolio-git-main-ritikeshsm-3090s-projects.vercel.app
 
 # Sitemaps
-Sitemap: https://portfolio-4xv7z9ss7-ritikesh11052000s-projects.vercel.app/sitemap.xml
+Sitemap: https://portfolio-git-main-ritikeshsm-3090s-projects.vercel.app/sitemap.xml
