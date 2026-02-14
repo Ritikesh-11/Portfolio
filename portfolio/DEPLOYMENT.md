@@ -36,8 +36,9 @@ Before running this project, make sure you have the following installed:
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/Ritikesh-11/portfolio.git
-cd portfolio
+
+git clone https://github.com/Ritikesh-11/Portfolio.git
+cd Portfolio
 ```
 
 2. **Install dependencies**:
@@ -227,7 +228,7 @@ vercel env add [variable-name]
 - Add environment variables for your project
 
 ### Current Portfolio URLs
-- **Production**: https://portfolio-a30pu0ugm-ritikesh11052000s-projects.vercel.app
+- **Production**: https://portfolio-tawny-six-819ld5u664.vercel.app/ (or your new Vercel URL)
 - **Preview**: Check `vercel ls` for latest preview URLs
 
 ### Notes

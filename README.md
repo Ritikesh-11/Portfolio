@@ -28,8 +28,8 @@ I will use this tech stack in my project:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ritikesh11052000/portfolio.git
-   cd portfolio
+   git clone https://github.com/Ritikesh-11/Portfolio.git
+   cd Portfolio
    ```
 
 2. **Install dependencies:**
@@ -102,7 +102,7 @@ The project includes all necessary configurations for Vercel deployment.
 
 > Here’s a sneak peek of the portfolio layout.
 
-![Portfolio Preview](https://github.com/ritikesh11052000/Portfolio/blob/main/Portfolio_Preview.png)
+![Portfolio Preview](https://github.com/Ritikesh-11/Portfolio/blob/main/Portfolio_Preview.png)
 
 ---
 
@@ -139,8 +139,8 @@ portfolio/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/ritikesh11052000/portfolio.git
-cd portfolio
+git clone https://github.com/Ritikesh-11/Portfolio.git
+cd Portfolio
 
 2️⃣ Install Dependencies
 npm install
@@ -156,7 +156,7 @@ Now open http://localhost:3000
 
 If you plan to integrate APIs, create a .env.local file:
 
-NEXT_PUBLIC_GITHUB_USERNAME=ritikesh11052000
+NEXT_PUBLIC_GITHUB_USERNAME=Ritikesh-11
 NEXT_PUBLIC_FORM_ENDPOINT=https://formspree.io/f/xxxxxx
 OPENAI_API_KEY=your_openai_api_key_here
 
@@ -185,7 +185,7 @@ Ritikesh Shankar Machhewar
 📧 ritikeshmachhewar@gmail.com
 📱 +91 7745090264
 
-🔗 [LinkedIn](https://www.linkedin.com/in/ritikesh-machhewar-36381b179/) • [GitHub](https://github.com/ritikesh11052000)
+🔗 [LinkedIn](https://www.linkedin.com/in/ritikesh-machhewar-36381b179/) • [GitHub](https://github.com/Ritikesh-11)
 
 🪄 Deployment
 
@@ -224,7 +224,9 @@ Your portfolio is now fully optimized for Google search visibility! Here's how t
 
 1. **Submit to Google Search Console**:
    - Go to: https://search.google.com/search-console
-   - Add your property: `https://portfolio-4xv7z9ss7-ritikesh11052000s-projects.vercel.app`
+
+- Add your property: `https://ritikesh-11-portfolio.vercel.app`
+
    - Verify ownership using the HTML file method (already in `/public/google-site-verification.html`)
    - Submit your sitemap: `/sitemap.xml`
 
